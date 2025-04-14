@@ -1,5 +1,3 @@
-### Hi, I'm Alessandro! 👋
-
 # 💫 About Me:
 👨‍💻 Ciao! Sono Alessandro Piccirillo — laureato in Ingegneria Informatica e delle Telecomunicazioni all’Università di Cassino 🇮🇹, appassionato di sviluppo software 💻, machine learning 🤖 e sviluppo di videogiochi 🎮.<br><br>📚 Durante il mio percorso accademico ho lavorato a diversi progetti: dalla progettazione di database relazionali con MySQL 🗄️ allo sviluppo di videogiochi platform 2D in C++ con SDL2 🎨, fino all’analisi di reti neurali per la previsione dello stato di salute delle batterie con le PINN ⚡.<br><br>🛠️ Amo creare sistemi interattivi ed efficienti, con attenzione alle performance, al codice pulito e alla coerenza visiva. Attualmente sto approfondendo le tecnologie web e sono sempre alla ricerca di nuove cose da imparare.
 
